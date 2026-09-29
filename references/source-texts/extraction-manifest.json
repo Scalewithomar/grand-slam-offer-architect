@@ -1,0 +1,23 @@
+[
+  {
+    "source_pdf": "100M Offers Alex Hormozi.pdf",
+    "pages": 205,
+    "text_file": "100M Offers Alex Hormozi.txt",
+    "text_characters": 258123,
+    "sha256": "9cd213f3194efd0e8e1887e7fdf048cabf2ffbe0ea4b1fd8e932f9735aa6dc27"
+  },
+  {
+    "source_pdf": "100M Offers The Lost Chapter Alex Hormozi_compressed.pdf",
+    "pages": 8,
+    "text_file": "100M Offers The Lost Chapter Alex Hormozi_compressed.txt",
+    "text_characters": 11563,
+    "sha256": "e7deb353acc707e02d259e26e0cee41bee09504f8567112e0e31a2cadcbf00f4"
+  },
+  {
+    "source_pdf": "AR Grand Slam Offer Architect Custom GPT Instructions.pdf",
+    "pages": 14,
+    "text_file": "AR Grand Slam Offer Architect Custom GPT Instructions.txt",
+    "text_characters": 17338,
+    "sha256": "a6caab1839143fc8611ec3e1e6087ec975cea82e1451528866177fb28d299365"
+  }
+]
